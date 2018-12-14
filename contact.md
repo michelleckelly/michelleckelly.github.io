@@ -4,10 +4,7 @@ is_contact: true
 ---
 
 * Email: [michellekelly@ku.edu](mailto:michellekelly@ku.edu)
+* Twitter: [@michelleckelly2](https://twitter.com/michelleckelly2)
+* GitHub: [michelleckelly](https://github.com/michelleckelly)
 
 ---
-
-## Social
-
-1. [Twitter](https://twitter.com/michelleckelly2)
-2. [GitHub](https://github.com/michelleckelly)
