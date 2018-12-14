@@ -1,6 +1,6 @@
 title: Michelle C. Kelly
 url: "https://michelleckelly.github.io/"
-baseurl: "https://michelleckelly.github.io/"
+baseurl: ""
 
 markdown: kramdown
 ins_logo: ""
@@ -16,6 +16,8 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "Home"
+   link: "/"
  - name: "Teaching"
    link: "teaching"
  - name: "Research"
