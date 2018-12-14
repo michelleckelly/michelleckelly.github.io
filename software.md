@@ -5,7 +5,7 @@ layout: default
 ## Software development
 I have developed and launched the following open-source software projects:
 
-<img src="images/mimsylogo.svg" align = "left" width = "120" />
+<img src="images/mimsylogo.svg?sanitize=TRUE" align = "left" width = "120" />
 
 * **2018 - present:** [mimsy package for R](https://michelleckelly.github.io/mimsy/)
 
