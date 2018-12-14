@@ -88,3 +88,5 @@ exclude:
   - README.md
   - CNAME
 
+
+remote_theme: ankitsultana/researcher@gem
