@@ -17,9 +17,9 @@ sass:
 
 nav:
  - name: "Teaching"
-   link: "/teaching/"
+   link: "teaching"
  - name: "Software"
-   link: "/software/"
+   link: "software"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
