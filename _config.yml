@@ -3,7 +3,7 @@ url: "http://michelleckelly.github.io"
 baseurl: ""
 
 markdown: kramdown
-ins_logo: "https://github.com/michelleckelly.png"
+ins_logo: ""
 
 tracking_id: UA-126125143-1
 
@@ -24,19 +24,3 @@ nav:
    link: "resume.pdf"
  - name: "Contact"
 link: "contact"
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: michellekelly@ku.edu
-  facebook:
-  flickr:
-  github: michelleckelly
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: michelleckelly2
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-googleplus: # anything in your profile username that comes after plus.google.com/
