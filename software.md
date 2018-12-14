@@ -7,7 +7,10 @@ I have developed and launched the following open-source software projects:
 
 <img src="https://github.com/michelleckelly/michelleckelly.github.io/blob/master/images/logo.svg?sanitize=TRUE" align = "left" width = "120" />
 
-* **2018 - present:** [mimsy package for R](https://michelleckelly.github.io/mimsy/)
+**2018 - present:** [mimsy package for R](https://michelleckelly.github.io/mimsy/)
+
+
+
 
 ## Research computing
 I have developed and executed the following open-source research projects:
