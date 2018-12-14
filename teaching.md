@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Courses taught
 Biology of Fungi Teaching Assistant, Spring 2019
 Introductory Biology Laboratory Assistant, Spring 2019
