@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Software development
 I have developed and launched the following open-source software projects:
 * **2018 - present:** [mimsy package for R](https://michelleckelly.github.io/mimsy/)
