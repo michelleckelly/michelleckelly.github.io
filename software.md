@@ -5,7 +5,7 @@ layout: default
 ## Software development
 I have developed and launched the following open-source software projects:
 
-<img src="https://cdn.rawgit.com/michelleckelly/michelleckelly.github.io/master/images/logo.svg" align = "left" width = "120" />
+<img src="https://michelleckelly.github.io/master/images/logo.svg" align = "left" width = "120" />
 
 **2018 - present:** [mimsy package for R](https://michelleckelly.github.io/mimsy/)
 
