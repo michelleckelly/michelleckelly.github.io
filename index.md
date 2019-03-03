@@ -11,3 +11,5 @@ Hi, I'm Michelle! I'm an aquatic ecosystem ecologist. I work to better understan
 I am a current Masters student in the Ecology and Evolutionary Biology Department at the University of Kansas. I recieved my BS in Environmental Engineering at Michigan Technological University in 2017.
 
 In my spare time, I enjoy hiking, camping, and baking. I also have a very fluffy cat named Charlie.
+
+<img src="images/IMG_0923.jpg" align = "center" height = "500" />
