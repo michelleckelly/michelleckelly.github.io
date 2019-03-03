@@ -3,8 +3,8 @@ layout: default
 is_contact: true
 ---
 
-* Email: [michellekelly@ku.edu](mailto:michellekelly@ku.edu)
-* Twitter: [@michelleckelly2](https://twitter.com/michelleckelly2)
-* GitHub: [michelleckelly](https://github.com/michelleckelly)
+## Contact me!
 
----
+:email: Email:  [michellekelly@ku.edu](mailto:michellekelly@ku.edu)  
+![Twitter logo](http://i.imgur.com/wWzX9uB.png) Twitter:  [@michelleckelly_](https://twitter.com/michelleckelly_)  
+![Github logo](http://i.imgur.com/9I6NRUm.png) GitHub:  [michelleckelly](https://github.com/michelleckelly)  
