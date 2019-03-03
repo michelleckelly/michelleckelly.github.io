@@ -22,7 +22,7 @@ nav:
    link: "research"
  - name: "Teaching"
    link: "teaching"
- - name: "Software"
+ - name: "Open-source Projects"
    link: "software"
  - name: "Contact"
    link: "contact"
