@@ -6,8 +6,8 @@ layout: default
 
 <img class="profile-picture" src="https://github.com/michelleckelly.png">
 
-Hi! I am a second year Master's student working with Dr. Amy Burgin and the Ecology and Evolutionary Biology Department of the University of Kansas. I received my Environmental Engineering BS in 2017 at Michigan Technological University. 
+Hi, I'm Michelle! I'm an aquatic ecosystem ecologist. I work to better understand nutrient cycling in rivers and streams, with the ultimate goal of mitigating downstream pollution. My research sits at the intersection of traditional biogeochemistry approaches and modern data science-driven analytical techniques. 
 
-## Research Interests
+I am a current Masters student in the Ecology and Evolutionary Biology Department at the University of Kansas. I recieved my BS in Environmental Engineering at Michigan Technological University in 2017.
 
-My research fields are aquatic biogeochemistry, ecology, and data science. Specifically, I'm interested in understanding nutrient processing and metabolism in streams and rivers with numerical modeling techniques.
+In my spare time, I enjoy hiking, camping, and baking. I also have a very fluffy cat named Charlie.
