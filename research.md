@@ -12,7 +12,9 @@ _Masters thesis project, University of Kansas. In collaboration with A. Burgin a
 _NSF REU, Michigan Technological University. In collaboration with A. Marcarelli and K. Nevorski._  
 Do small-scale bottle assays reflect reach-scale nitrogen cycling dynamics? We explored the variation in bottle assay estimates of nitrification and denitrification along an upstream to downstream sampling gradient. Furthermore, we contrasted the differences in variation between sites with relatively low, moderate, or high discharge.
 
-<img src="images/-gcXNdqW_400x400.jpg" align = "center" width = "400" />
+<img src="images/-gcXNdqW_400x400.jpg" align = "center" height = "400" /> <img src="images/IMG_20160624_150239047_HDR.jpg" align = "center" height = "400" />
+
+
 
 ## First-author Conference Presentations
 
