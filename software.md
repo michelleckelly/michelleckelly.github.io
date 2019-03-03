@@ -2,16 +2,13 @@
 layout: default
 ---
 
-## Software development
-I have developed and launched the following open-source software projects:
+## Open-source Projects  
 
-<img src="images/logo.svg" align = "left" width = "120" />
+**[The `mimsy` R package](https://michelleckelly.github.io/mimsy/)**  
+_Development: 2018 - present._  
+"Calculate MIMS dissolved gas concentrations without getting a headache."  
+`mimsy` is a data analysis package that transforms raw MIMS (Membrane Inlet Mass Spectrometer) signal data into dissolved gas concentration readings using standard solubility equations. `mimsy` is designed to be simple and accessible for non-R users. Click on the link above to check out the `mimsy` website and learn more.
 
-**2018 - present:** [mimsy package for R](https://michelleckelly.github.io/mimsy/)
-
-
-
-
-## Research computing
-I have developed and executed the following open-source research projects:
-* **Summer 2018:** [The metabolic regime concept: A practical proof](https://github.com/michelleckelly/Kelly_dcei/blob/master/FinalProject/FinalProject.pdf) A fully reproducable, open-source mini-analysis of the metabolic regimes concept (Bernhardt et al. 2018)
+**[The metabolic regime concept: A practical proof](https://github.com/michelleckelly/Kelly_dcei/blob/master/FinalProject/FinalProject.pdf)**  
+_Development: Summer 2018._  
+A fully reproducable, open-source mini-analysis of the metabolic regimes concept (Bernhardt et al. 2018). 
