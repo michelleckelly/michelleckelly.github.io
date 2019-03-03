@@ -12,4 +12,4 @@ I am a current Masters student in the Ecology and Evolutionary Biology Departmen
 
 In my spare time, I enjoy hiking, camping, and baking. I also have a very fluffy cat named Charlie.
 
-<img src="images/IMG_0923.jpg" align = "center" height = "500" />
+<img src="images/IMG_0923.jpg" align = "center" height = "400" />
