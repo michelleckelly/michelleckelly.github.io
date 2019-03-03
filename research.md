@@ -6,13 +6,13 @@ layout: default
 **Coupling nutrient supply and demand in a prairie river.**  
 _Masters thesis project, University of Kansas. In collaboration with A. Burgin and L. Zeglin._  
 
-<img src="images/IMG_20180502_221613_980.jpg" align = "left" height = "300" /> <img src="images/IMG_20171127_211158_343.jpg" align = "center" height = "300" />
+<img src="images/IMG_20180502_221613_980.jpg" align = "left" height = "300" /> <img src="images/IMG_20171127_211158_343.jpg" align = "center" height = "300" width = "300" />
 
 **Exploring within-reach variation in nitrogen cycling processes.**  
 _NSF REU, Michigan Technological University. In collaboration with A. Marcarelli and K. Nevorski._  
 Do small-scale bottle assays reflect reach-scale nitrogen cycling dynamics? We explored the variation in bottle assay estimates of nitrification and denitrification along an upstream to downstream sampling gradient. Furthermore, we contrasted the differences in variation between sites with relatively low, moderate, or high discharge.
 
-<img src="images/-gcXNdqW_400x400.jpg" align = "left" height = "300" /> <img src="images/IMG_20160624_150239047_HDR.jpg" align = "center" height = "300" />
+<img src="images/-gcXNdqW_400x400.jpg" align = "left" height = "300" width = "300" /> <img src="images/IMG_20160624_150239047_HDR.jpg" align = "center" height = "300" />
 
 
 
