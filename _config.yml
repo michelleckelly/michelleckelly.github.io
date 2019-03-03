@@ -18,10 +18,10 @@ sass:
 nav:
  - name: "Home"
    link: "/"
- - name: "Teaching"
-   link: "teaching"
  - name: "Research"
    link: "research"
+ - name: "Teaching"
+   link: "teaching"
  - name: "Software"
    link: "software"
  - name: "Contact"
