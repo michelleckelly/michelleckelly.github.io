@@ -13,9 +13,10 @@ The Single-Tweet Project Summary:
 **Check out the defense presentation on YouTube:**  
 Masters Thesis Defense | Michelle Catherine Kelly | Aquatic Biogeochemistry  
 
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LmXlKZDj8hE
 " target="_blank"><img src="http://img.youtube.com/vi/LmXlKZDj8hE/0.jpg" 
-alt="Link to Masters Thesis Defense" width="240" height="180" border="2" /></a>  
+alt="Link to Masters Thesis Defense" width="240" height="180" border="0" /></a>  
 
 **Exploring within-reach variation in nitrogen cycling processes.**  
 _NSF REU, Michigan Technological University. In collaboration with A. Marcarelli and K. Nevorski._  
