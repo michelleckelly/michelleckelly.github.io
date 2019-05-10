@@ -9,14 +9,14 @@ _Mentor: Dr. Amy J. Burgin, funded by NSF DEB-Ecosystems RAPID #1822960 to Dr. L
 
 <img src="images/IMG_1649.JPEG" align = "center" height = "376" />  
 
-The Single-Tweet Project Summary:  
+The Single-Tweet Project Summary:
 <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">My defense‼️<br>In-stream💧 uptake 🌿🔄 can reduce downstream impact of nitrogen loading 🏙️🌽<br><br>but we still don&#39;t 🚫🧠 know a lot about N cycling 🔀 in large 🌊 rivers 🏞️<br><br>↪️ so we co-opted a big 💯 N release “experiment” on the Kansas River to investigate 🔍 nutrient uptake 🗺️ </p>&mdash; Michelle Catherine Kelly (@michelleckelly_) <a href="https://twitter.com/michelleckelly_/status/1118607006645014529?ref_src=twsrc%5Etfw">April 17, 2019</a></blockquote>
 
 **Check out the defense presentation on YouTube:**  
 Masters Thesis Defense | Michelle Catherine Kelly | Aquatic Biogeochemistry  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LmXlKZDj8hE
 " target="_blank"><img src="http://img.youtube.com/vi/LmXlKZDj8hE/0.jpg" 
-alt="Link to Masters Thesis Defense" width="240" height="180" border="10" /></a>  
+alt="Link to Masters Thesis Defense" width="240" height="180" border="2" /></a>  
 
 **Exploring within-reach variation in nitrogen cycling processes.**  
 _NSF REU, Michigan Technological University. In collaboration with A. Marcarelli and K. Nevorski._  
