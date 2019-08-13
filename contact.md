@@ -5,12 +5,12 @@ is_contact: true
 
 ## Contact me!
 
-:envelope: **Email**
+**Email**
 * [mckelly1@mtu.edu](mailto:mckelly1@mtu.edu)  
 
-:bird: **Twitter**
+**Twitter**
 * [https://twitter.com/michelleckelly_](https://twitter.com/michelleckelly_)  
 
-:octocat: **GitHub**
+**GitHub**
 * [https://github.com/michelleckelly](https://github.com/michelleckelly)  
 
