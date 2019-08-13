@@ -7,7 +7,8 @@ layout: default
 _Masters Thesis (Awarded with Honors), Department of Ecology and Evolutionary Biology, University of Kansas._  
 _Mentor: Dr. Amy J. Burgin, funded by NSF DEB-Ecosystems RAPID #1822960 to Dr. Lydia H. Zeglin and Dr. Amy J. Burgin._
 
-[_Click here to check out the defense presentation recording on YouTube_](https://www.youtube.com/watch?v=LmXlKZDj8hE)     
+[_Click here to check out the defense presentation recording on YouTube_](https://www.youtube.com/watch?v=LmXlKZDj8hE)  
+
 <a href="https://www.youtube.com/watch?v=LmXlKZDj8hE" target="_blank"><img src="images/YoutubeScreenshot.png" alt = "Link to Defense" height = "360" align = "center">  
 
 **Exploring within-reach variation in nitrogen cycling processes.**  
