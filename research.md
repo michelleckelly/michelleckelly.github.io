@@ -7,13 +7,15 @@ layout: default
 _Masters Thesis (Awarded with Honors), Department of Ecology and Evolutionary Biology, University of Kansas._  
 _Mentor: Dr. Amy J. Burgin, funded by NSF DEB-Ecosystems RAPID #1822960 to Dr. Lydia H. Zeglin and Dr. Amy J. Burgin._
 
-_Check out the defense presentation on YouTube:_ 
-<a href="https://www.youtube.com/watch?v=LmXlKZDj8hE" target="_blank"><img src="images/YoutubeScreenshot.png" alt = "Link to Defense" height = "360" align = "center">
+:link: [_Click here to check out the defense presentation recording on YouTube_](https://www.youtube.com/watch?v=LmXlKZDj8hE)   
+<a href="https://www.youtube.com/watch?v=LmXlKZDj8hE" target="_blank"><img src="images/YoutubeScreenshot.png" alt = "Link to Defense" height = "360" align = "center">  
 
 **Exploring within-reach variation in nitrogen cycling processes.**  
 _NSF REU, Michigan Technological University. In collaboration with A. Marcarelli and K. Nevorski._  
 
-Do small-scale bottle assays reflect reach-scale nitrogen cycling dynamics? We explored the variation in bottle assay estimates of nitrification and denitrification along an upstream to downstream sampling gradient. Furthermore, we contrasted the differences in variation between sites with relatively low, moderate, or high discharge.
+Do small-scale bottle assays reflect reach-scale nitrogen cycling dynamics? We explored the variation in bottle assay estimates of nitrification and denitrification along an upstream to downstream sampling gradient. Furthermore, we contrasted the differences in variation between sites with relatively low, moderate, or high discharge.  
+
+:link: [_Click here to check out the research poster PDF on Google Drive_](https://drive.google.com/file/d/0BxlsUpM8VprNTWcyOENDaUIybzA/view?usp=sharing)  
 
 <img src="images/IMG_20160624_150239047_HDR.jpg" align = "center" height = "376" />
 
