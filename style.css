@@ -1,0 +1,53 @@
+*{
+    padding: 10px;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header nav ul{display: flex;}
+
+img{border: 0 !important;
+    outline: 0 !important;
+}
+
+.center-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px
+}
+
+.tinyblock{
+    height: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgbox{
+    height: 100%;
+    margin: 0;
+    padding: 30px 20px;
+    font-size: 10px;
+}
+.center-fit{
+    padding: 0;
+    display: block;
+    max-width:70%;
+    max-height: 70%;
+    margin: 0 auto;
+}
+
+footer{
+    display: block;
+    max-width: 50%;
+    margin: 0 auto;
+    font-size: 8px;
+}
+
+a:link{
+    color:#FB000F;
+}
+a:visited{
+    color:#FB000F;
+}

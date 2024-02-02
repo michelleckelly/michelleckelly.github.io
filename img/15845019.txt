@@ -1,0 +1,35 @@
+Author	Fisk, Harold N., 1908-1964
+Author	Mississippi River Commission
+Date	1946
+Short Title	Plate 22 Sheet 1 Alluvial Valley of the Mississippi River. Ancient Courses Mississippi River Meander Belt. Cape Girardeau, Mo. - Donaldsonville, LA.
+Publisher	Louisiana State University
+Publisher Location	Baton Rouge
+Type	Book Map
+Obj Height cm	102
+Obj Width cm	68
+Scale 1	62,620
+State/Province	Mississippi
+State/Province	Arkansas
+State/Province	Louisiana
+Region	Mississippi River Valley
+Subject	Data Visualization
+Subject	Geology
+Subject	Rivers
+Full Title	Plate 22 Sheet 1 Alluvial Valley of the Mississippi River. Ancient Courses Mississippi River Meander Belt. Cape Girardeau, Mo. - Donaldsonville, LA.
+List No	15845.019
+Series No	19
+Publication Author	Fisk, Harold N., 1908-1964
+Publication Author	Mississippi River Commission
+Pub Date	1945
+Pub Title	Geological Investigation of the Alluvial Valley of the Lower Mississippi River, conducted for the Mississippi River Commission.
+Pub Reference	For the full scans of all plates, profiles, and text, see https://biotech.law.lsu.edu
+Pub Note	"While some of the conclusions of the report are outdated, the maps are beautiful and illustrate the dynamic history of the Mississippi River. The most striking are the 15 sheets that make up Plate 22, the meander maps of the Mississippi from Cape Girardeau to Donaldsonville." (LSU web site). 78 plates, maps, tables, diagrs. and atlas of 27 folding maps. The Rumsey collection has about half of the 27 maps and plates. The other half have been downloaded from the biotect.law.lsu.edu site, with thanks. Stanford Library has a complete physical copy, see https://searchworks.stanford.edu/view/1282647
+Pub List No	15845.000
+Pub Type	Geology Book
+Pub Maps	27
+Pub Height cm	31
+Pub Width cm	20
+Image No	15845019.jp2
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/213/15845019.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Authors	Fisk, Harold N., 1908-1964; Mississippi River Commission
