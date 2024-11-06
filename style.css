@@ -27,13 +27,13 @@ img{border: 0 !important;
 .imgbox{
     height: 100%;
     margin: 0;
-    padding: 30px 100px 10px;
+    padding: 30px 100px 5px;
     font-size: 10px;
 }
 .center-fit{
     padding: 0;
     display: block;
-    max-width:70%;
+    max-width: 40%;
     margin: 0 auto;
 }
 
